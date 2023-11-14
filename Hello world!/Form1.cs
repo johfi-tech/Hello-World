@@ -16,12 +16,12 @@ namespace Hello_world_
 
         private void button1_Click(object sender, EventArgs e)
         {
-            label1.Text = "Hello World!";
+            label1.Text = "Hello Johannes!";
         }
 
         private void Form1_Click(object sender, EventArgs e)
         {
-            label1.Text = "???";
+            label1.Text = "Nice Try";
         }
     }
 }
